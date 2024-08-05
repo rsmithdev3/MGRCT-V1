@@ -7,8 +7,18 @@ You will Download the entire net8.0-windows folder, inside of that folder there 
 Installation
 ------------
 
-1) Download the repository to your preferred location:
+1) Download the repository to your preferred location, I recommend a location that is backed up:
+![image](https://github.com/user-attachments/assets/5f493147-e9f4-40e1-b094-47fdd131d46a)
 
+2) Unzip the folder in the preferred location; feel free to delete the .zip after everything is unpacked.
+
+3) Create a shortcut for the .exe/application file on your desktop for easy access.
+
+4) Make sure .net eight or higher is installed before trying to run.
+
+5) Create a folder to save your project database(s), preferably one that is backed up.
+
+   
 Requirements
 ------------
 +.NET 8.0 or higher. 
