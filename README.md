@@ -1,5 +1,25 @@
-# MGRCT-Beta
-The Beta of MGRCT for testing. Not public use or for publication. 
+# MGRCT-V1
+Legal Notice and Usage Terms
+
+This GRC (Governance, Risk, and Compliance) tool is provided free of charge for use by individuals, businesses, and practitioners for internal, non-commercial purposes.
+
+You may:
+
+   +Use the tool freely for personal, professional, or organizational use.
+
+   +Distribute unmodified copies of the tool for non-commercial purposes, provided this notice is included.
+
+You may not:
+
+   +Sell, sublicense, or otherwise commercially distribute this tool or any modified version of it.
+
+   +Modify, adapt, or create derivative works of the tool for the purpose of resale or other commercial exploitation.
+
+   +Include this tool in any commercial software bundle, platform, or service offering without the express written consent of the creator.
+
+All rights not expressly granted are reserved by the creator. Unauthorized commercial use or modification for resale may result in legal action.
+
+To request permission for commercial licensing or distribution, please contact the creator directly.
 
 You will Download the entire net8.0-windows folder, inside of that folder there is a .exe file that you can create a shortcut to on your desktop. 
 ![image](https://github.com/user-attachments/assets/0ebea408-9951-4b10-a723-21cfa4db4b12)
